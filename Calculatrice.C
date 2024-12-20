@@ -3,7 +3,9 @@
 //Declaration des variables 
 
 //Fonction addition 
-
+int somme(int a, int b) {
+return a+b;
+}
 //Fonction multiplication 
 
 //Fonction soustraction 
