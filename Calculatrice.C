@@ -3,6 +3,7 @@
 //Declaration des variables 
 
 //Fonction addition 
+<<<<<<< Updated upstream
 int somme(int a, int b) {
 return a+b;
 }
@@ -12,6 +13,15 @@ float multiplication (float a, float b)
     float r ;
     r = a*b;
     return r;
+=======
+
+//Fonction multiplication 
+float multiplication (float a, float b ) 
+{
+    float r;
+    r = a*b;
+    return 1;
+>>>>>>> Stashed changes
 }
 
 //Fonction soustraction 
