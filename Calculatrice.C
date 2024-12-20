@@ -6,10 +6,11 @@
 int somme(int a, int b) {
 return a+b;
 }
-//Fonction multiplication 
+//Fonction multiplication sokhna amy
 float multiplication (float a, float b)
 {
-    float r = a*b;
+    float r ;
+    r = a*b;
     return r;
 }
 
