@@ -7,6 +7,11 @@ int somme(int a, int b) {
 return a+b;
 }
 //Fonction multiplication 
+float multiplication (float a, float b)
+{
+    float r = a*b;
+    return r;
+}
 
 //Fonction soustraction 
 float soustraction(float n1, float n2){
