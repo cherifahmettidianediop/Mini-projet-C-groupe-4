@@ -15,9 +15,10 @@ float soustraction(float n1, float n2){
 }
 
 //Fonction Divition 
-float Divition(float a, float b);
-float r = a/b;
-return r;
+float Divition(float a, float b){
+  float r = a/b;
+  return r;
+}
 main(){
     
 }
